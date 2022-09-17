@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mustafa Azad</h1>
 <h3 align="center">A passionate React and Next Js developer from India</h3>
+ 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mustafa-azad025&label=Profile%20views&color=0e75b6&style=flat" alt="mustafa-azad025" /> </p>
 
