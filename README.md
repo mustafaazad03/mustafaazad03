@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mustafa Azad</h1>
 <h3 align="center">A passionate React and Next Js developer from India</h3>
+<img src="https://media3.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif?cid=ecf05e47ylh1hgxntz8bfgk34dv53nmqx2ykqvzq6mzx1zsf&rid=giphy.gif&ct=g" align="right" alt="Codeing" width="400" height="400"/>
+
  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mustafa-azad025&label=Profile%20views&color=0e75b6&style=flat" alt="mustafa-azad025" /> </p>
