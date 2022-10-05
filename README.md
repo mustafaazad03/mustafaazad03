@@ -1,3 +1,4 @@
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mustafa-azad025" alt="mustafa-azad025" /></a> </p>
 <h1 align="center">Hi 👋, I'm Mustafa Azad</h1>
 <h3 align="center">A passionate React and Next Js developer from India</h3>
 <img src="https://media3.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif?cid=ecf05e47ylh1hgxntz8bfgk34dv53nmqx2ykqvzq6mzx1zsf&rid=giphy.gif&ct=g" align="right" alt="Codeing" width="400" height="400"/>
@@ -37,5 +38,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mustafa-azad025&show_icons=true&locale=en&layout=compact" alt="mustafa-azad025" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mustafa-azad025&" alt="mustafa-azad025" /></p>
+<a href="http://www.github.com/Mohit-Aasirwal"><img src="https://activity-graph.herokuapp.com/graph?username=Mustafa-Azad025&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mustafa-azad025" alt="mustafa-azad025" /></a> </p>
