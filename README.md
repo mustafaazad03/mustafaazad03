@@ -1,7 +1,7 @@
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mustafa-azad025" alt="mustafa-azad025" /></a> </p>
+<img src="https://img.freepik.com/free-vector/development-typographic-header-presenting-content-web-pages-website-layout-composition-color-development-idea-computer-technology-flat-vector-illustration_613284-2493.jpg?w=826&t=st=1665202626~exp=1665203226~hmac=3dd8d8f61e398ba72867572acfe1cc766aea050de7ba21baf2a0097b77a7ccae" align="center" alt="Development" width="100%" height="180"/>
 <h1 align="center">Hi 👋, I'm Mustafa Azad</h1>
 <h3 align="center">A passionate React and Next Js developer from India</h3>
-<img src="https://media3.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif?cid=ecf05e47ylh1hgxntz8bfgk34dv53nmqx2ykqvzq6mzx1zsf&rid=giphy.gif&ct=g" align="right" alt="Codeing" width="400" height="400"/>
+<img src="https://img.freepik.com/free-vector/code-typing-concept-illustration_114360-3866.jpg?w=740&t=st=1665201790~exp=1665202390~hmac=0129b5bbf69ddfd74d26e5d99d2ade1bba2697f6c1eb2966c5bd14c47452ee5c" align="right" alt="Codeing" width="550" height="400"/>
 
  
 
@@ -20,7 +20,8 @@
 
 - 📄 Know about my experiences [https://mustafa-azad.web.app](https://mustafa-azad.web.app)
 
-- ⚡ Fun fact **Just Funny**
+ <img src="https://readme-jokes.vercel.app/api?hideBorder" width="100%" height="35%" alt="Jokes Card" />
+ <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mustafa-azad025&theme=onedark&no-frame=true" alt="mustafa-azad025" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -33,10 +34,19 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/cplusplus.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" alt="javascript" width="60" height="45"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="mongodb" width="65" height="45"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mustafa-azad025&show_icons=true&locale=en" alt="mustafa-azad025" /></p>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mustafa-azad025&theme=monokai)!
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mustafa-azad025&show_icons=true&locale=en&layout=compact" alt="mustafa-azad025" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mustafa-azad025&theme=shades-of-purple&hide_border=true&show_icons=true&locale=en&layout=compact" alt="mustafa-azad025" /></p>
+<a><h2>Stats</h2></a>
+<div>
+    <a href="https://github.com/Mustafa-Azad025">
+        <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=mustafa-azad025&theme=shades-of-purple&custom_title=GitHub+Stats&hide_border=true"/>
+    </a>
+    <a href="https://github.com/Mustafa-Azad025">
+        <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Mustafa-Azad025&theme=shades-of-purple&hide_border=true"/>
+    </a>
+</div>
+</br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mustafa-azad025&" alt="mustafa-azad025" /></p>
-<a href="http://www.github.com/Mohit-Aasirwal"><img src="https://activity-graph.herokuapp.com/graph?username=Mustafa-Azad025&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
 
