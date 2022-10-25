@@ -20,6 +20,8 @@
 
 - 📄 Know about my experiences [https://mustafa-azad.web.app](https://mustafa-azad.web.app)
 
+[![@mustafaazad's Holopin board](https://holopin.me/mustafaazad)](https://holopin.io/@mustafaazad)
+
  <img src="https://readme-jokes.vercel.app/api?hideBorder" width="100%" height="35%" alt="Jokes Card" />
  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mustafa-azad025&theme=onedark&no-frame=true" alt="mustafa-azad025" /></a> </p>
 
