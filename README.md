@@ -12,13 +12,13 @@
 
 - 🌱 I’m currently learning **Sanity and MongoDB.**
 
-- 👨‍💻 All of my projects are available at [https://mustafa-azad.web.app](https://mustafa-azad.web.app)
+- 👨‍💻 All of my projects are available at [https://mustafaazad.me](https://mustafaazad.me)
 
 - 💬 Ask me about **React ,Next and Frontend Development**
 
 - 📫 How to reach me **mustafaazad533@gmail.com**
 
-- 📄 Know about my experiences [https://mustafa-azad.web.app](https://mustafa-azad.web.app)
+- 📄 Know about my experiences [https://mustafaazad.me](https://mustafaazad.me)
 
 [![@mustafaazad's Holopin board](https://holopin.me/mustafaazad)](https://holopin.io/@mustafaazad)
 
