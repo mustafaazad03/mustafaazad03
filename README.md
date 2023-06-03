@@ -1,6 +1,6 @@
 <img src="https://media.giphy.com/media/26FPOFusQUOKpnXTG/giphy.gif" align="center" alt="Development" width="100%" height="180"/>
 <h1 align="center">Hi 👋, I'm Mustafa Azad</h1>
-<h3 align="center">A passionate React and Next Js developer from India</h3>
+<h3 align="center">A passionate MERN Stack and Blockchain developer from India</h3>
 <img src="https://img.freepik.com/free-vector/code-typing-concept-illustration_114360-3866.jpg?w=740&t=st=1665201790~exp=1665202390~hmac=0129b5bbf69ddfd74d26e5d99d2ade1bba2697f6c1eb2966c5bd14c47452ee5c" align="right" alt="Codeing" width="550" height="400"/>
 
  
@@ -8,13 +8,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mustafa-azad025&label=Profile%20views&color=0e75b6&style=flat" alt="mustafa-azad025" /> </p>
 
 
-- 🔭 I’m currently working on **Portfolio 2.0**
+- 🔭 I’m currently working on **Big Project : Blockchain, AR-VR and Full-Stack**
 
-- 🌱 I’m currently learning **Sanity and MongoDB.**
+- 🌱 I’m currently learning **Blockchain**
 
 - 👨‍💻 All of my projects are available at [https://mustafaazad.me](https://mustafaazad.me)
 
-- 💬 Ask me about **React ,Next and Frontend Development**
+- 💬 Ask me about **React ,Next and Full-Stack Development**
 
 - 📫 How to reach me **mustafaazad533@gmail.com**
 
