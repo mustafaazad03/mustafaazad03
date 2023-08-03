@@ -1,7 +1,7 @@
-<img src="https://media.giphy.com/media/26FPOFusQUOKpnXTG/giphy.gif" align="center" alt="Development" width="100%" height="180"/>
+<!--<img src="https://media.giphy.com/media/26FPOFusQUOKpnXTG/giphy.gif" align="center" alt="Development" width="100%" height="180"/>-->
 <h1 align="center">Hi 👋, I'm Mustafa Azad</h1>
 <h3 align="center">A passionate MERN Stack and Blockchain Enthusiast from India</h3>
-<!-- <img src="https://img.freepik.com/free-vector/code-typing-concept-illustration_114360-3866.jpg?w=740&t=st=1665201790~exp=1665202390~hmac=0129b5bbf69ddfd74d26e5d99d2ade1bba2697f6c1eb2966c5bd14c47452ee5c" align="right" alt="Codeing" width="550" height="400"/> -->
+<img src="https://img.freepik.com/free-vector/code-typing-concept-illustration_114360-3866.jpg?w=740&t=st=1665201790~exp=1665202390~hmac=0129b5bbf69ddfd74d26e5d99d2ade1bba2697f6c1eb2966c5bd14c47452ee5c" align="right" alt="Codeing" width="550" height="400"/>
 
  
 
