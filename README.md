@@ -14,9 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://mustafaazad.me](https://mustafaazad.me)
 
-- 💬 Ask me about **React ,Next and Full-Stack Development**
-
-- 📫 How to reach me **mustafaazad533@gmail.com**
+- 💬 Ask me about **React, Next , React Native, and Full-Stack Development**
 
 - 📄 Know about my experiences [https://mustafaazad.me](https://mustafaazad.me)
 
