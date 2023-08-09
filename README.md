@@ -39,11 +39,11 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mustafaazad03&theme=shades-of-purple&hide_border=true&show_icons=true&locale=en&layout=compact" alt="mustafaazad03" /></p>
 <a><h2>Stats</h2></a>
 <div>
- 
-<p>&nbsp;<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mustafaazad03&show_icons=true&locale=en&theme=shades-of-purple" alt="mustafaazad03" /></p>
     <a href="https://github.com/mustafaazad03">
         <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=mustafaazad03&theme=shades-of-purple&hide_border=true"/>
     </a>
+ 
+<p>&nbsp;<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mustafaazad03&show_icons=true&locale=en&theme=shades-of-purple" alt="mustafaazad03" /></p>
 <!--  <a href="https://github.com/mustafaazad03">
         <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=mustafaazad03&theme=shades-of-purple&custom_title=GitHub+Stats&hide_border=true"/>
     </a> -->
