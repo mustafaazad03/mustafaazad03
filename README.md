@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Blockchain**
 
-- 👨‍💻 All of my projects are available at [https://mustafaazad.me](https://mustafaazad.me/projects)
+- 👨‍💻 All of my projects are available at [https://mustafaazad.me/projects](https://mustafaazad.me/projects)
 
 - 💬 Ask me about **React, Next , React Native, and Full-Stack Development**
 
