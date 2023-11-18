@@ -12,11 +12,11 @@
 
 - 🌱 I’m currently learning **Blockchain**
 
-- 👨‍💻 All of my projects are available at [https://mustafaazad.me/projects](https://mustafaazad.me/projects)
+- 👨‍💻 All of my projects are available at [https://mustafaazad.tech/project](https://mustafaazad.tech/projects)
 
 - 💬 Ask me about **React, Next , React Native, and Full-Stack Development**
 
-- 📄 Know about my experiences [https://mustafaazad.me](https://mustafaazad.me)
+- 📄 Know about my experiences [https://mustafaazad.tech](https://mustafaazad.tech)
 
 [![@mustafaazad's Holopin board](https://holopin.me/mustafaazad)](https://holopin.io/@mustafaazad)
 
