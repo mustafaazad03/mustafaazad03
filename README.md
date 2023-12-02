@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://mustafaazad.tech/project](https://mustafaazad.tech/project)
 
-- 💬 Ask me about **Nest.Js, Next.Js , React Native, and Full-Stack Development**
+- 💬 Ask me about **Nest.Js, Next.Js, React Native, and Frontend Development**
 
 - 📄 Know about my experiences [https://mustafaazad.tech](https://mustafaazad.tech)
 
