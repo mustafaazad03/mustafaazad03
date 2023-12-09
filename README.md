@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Big Project : Blockchain, AR-VR and Full-Stack**
 
-- 🌱 I’m currently learning **Blockchain**
+- 🌱 I’m currently Backend Dev @peruse2
 
 - 👨‍💻 All of my projects are available at [https://mustafaazad.tech/project](https://mustafaazad.tech/project)
 
