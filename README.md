@@ -20,7 +20,7 @@
 
   <br/>
 
- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mustafaazad03&theme=onedark&no-frame=true" alt="mustafaazad03" /></a> </p>
+ <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mustafaazad03&theme=algolia&no-frame=true" alt="mustafaazad03" /></a> </p>
 
  <a href="https://github.com/mustafaazad03/github-readme-activity-graph" title="Go to Source">
     <picture>
